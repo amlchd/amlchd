@@ -6,7 +6,7 @@
 - 🌱 Learning: Ethical Hacking, Network Security, Web Security
 - 🛡️ Goal: Become a Security Professional
 - 💬 Ask me about: Basics of Cyber Security
-- 📫 Contact: your@email.com
+- 📫 Contact: camal5192@email.com
 
 ## 🛠️ Skills (Learning Phase)
 - Networking Fundamentals
